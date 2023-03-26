@@ -2,4 +2,9 @@
 https://www.science.org/content/article/how-read-scientific-paper-rev2
 https://www.youtube.com/@DataSciencewithHarshit/videos
 
+Great NeRF resources
+
+https://github.com/awesome-NeRF/awesome-NeRF
+
+
 
