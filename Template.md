@@ -1,4 +1,10 @@
 
+First pass Instructions:
+
+Read Abstract, Introduction, and conclusion
+
+Questions to answer once the paper has been read
+
 1. Category: What type of paper is this? A measure-
 ment paper? An analysis of an existing system? A
 description of a research prototype?
@@ -12,6 +18,10 @@ theoretical bases were used to analyze the problem?
 tions?
 
 5. Clarity: Is the paper well written?
+
+6. Datasets
+
+
 
 
 
