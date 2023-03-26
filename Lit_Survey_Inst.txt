@@ -1,0 +1,24 @@
+From 
+How to Read a Paper
+http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
+
+
+
+First, use an academic search engine such as Google Scholar
+or CiteSeer and some well-chosen keywords to find three to
+five recent papers in the area.
+
+Do one pass on each, then read the related works section.
+
+If you find a survey, you are done.
+
+If not,  in the second step, find shared citations and
+repeated author names in the bibliography.
+
+Then go to the websites of the
+key researchers and see where they’ve published recently
+
+The third step is to go to the website for these top con-
+ferences and look through their recent proceedings.
+
+
