@@ -8,3 +8,13 @@ http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
 How to read a scientific paper
 https://www.science.org/content/article/how-read-scientific-paper-rev2
 
+
+ Faster RC\N
+ https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection
+
+
+Cross Entropy
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+
+Fast-RNN
+https://www.youtube.com/watch?v=xzw3lcdllOU
