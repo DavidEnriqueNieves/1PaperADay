@@ -1,3 +1,5 @@
+Explain Paper
+https://www.explainpaper.com/login
 
 https://arxiv-sanity-lite.com/
 
@@ -18,3 +20,11 @@ https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
 
 Fast-RNN
 https://www.youtube.com/watch?v=xzw3lcdllOU
+
+
+Kalman filters
+https://www.sas.upenn.edu/~jesusfv/filters_format.pdf
+
+
+
+https://openreview.net/group?id=ML_Reproducibility_Challenge/2020
