@@ -10,3 +10,5 @@ Oh, I almost forgot. I expect to fail at the task of reading one paper a day, bu
 
 
 [Vision-Only Robot Navigation in a Neural Radiance World](https://arxiv.org/pdf/2110.00168.pdf) on 26/03/2023
+
+[iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/pdf/2012.05877.pdf) on 27/03/2023
