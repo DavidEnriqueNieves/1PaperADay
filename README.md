@@ -13,4 +13,4 @@ Oh, I almost forgot. I expect to fail at the task of reading one paper a day, bu
 
 [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/pdf/2012.05877.pdf) on 27/03/2023
 
-[A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf) (reading, not done yet) on 28/03/2023
+[A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf) (reading, not done yet) on 28/03/2023 & 29/03/2023
